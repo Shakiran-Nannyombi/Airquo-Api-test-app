@@ -1,0 +1,12 @@
+{
+  "name": "AirPulse: Urban Air Quality Monitor",
+  "description": "Real-time air pollution visualization using AirQo data and Google Maps heatmaps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Google Maps integration",
+    "Real-time AirQo API data fetching",
+    "Heatmap visualization for PM2.5 levels"
+  ]
+}
